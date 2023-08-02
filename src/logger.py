@@ -16,7 +16,7 @@ logging.basicConfig(
 
 )
 
-logger=logging.getLogger('project_logger')
+# logger=logging.getLogger('project_logger')
 
 if __name__=="__main__":
     logging.info("Logging has started")
